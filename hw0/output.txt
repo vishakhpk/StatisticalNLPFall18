@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: Baseline
+   first: Vishakh
+   last: Padmakumar
+email: vishakhpadmakumar@gmail.com
+leaderboard: paddyspen
